@@ -1,4 +1,5 @@
 x=20
 y=30
-z=x+y
+c=50
+z=x+y+c
 print(z)
